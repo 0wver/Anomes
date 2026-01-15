@@ -33,13 +33,7 @@ Anomes is a secure, anonymous messaging application built for Android using Kotl
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/0wver/Anomes.git
-   ```
-2. Open the project in Android Studio.
-3. Sync Gradle projects to download dependencies.
-4. Run the application on an emulator or physical device.
+1. download the apk listed above on any supported android device or build the app from android studio to test it on emulated devices with the option to make the apk by yourself if you want
 
 > **Note**: Due to the usage of Tor, the initial network connection might take a few moments to bootstrap.
 
